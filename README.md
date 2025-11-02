@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 Kütüphane Yönetim Sistemi
 
 Bu proje, **Java** diliyle geliştirilmiş basit bir **Kütüphane Yönetim Sistemi** örneğidir.  
@@ -35,5 +35,4 @@ Kullanıcılar kitap ekleyebilir, listeleyebilir ve silebilir.
 
 **[Ömer Faruk Tektaş]**
 
-Eğer projeyi beğendiysen ⭐ bırakmayı unutma 😊
 
