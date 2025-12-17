@@ -4,7 +4,7 @@
 Bu proje, **Java** diliyle geliştirilmiş basit bir **Kütüphane Yönetim Sistemi** örneğidir.  
 Kullanıcılar kitap ekleyebilir, listeleyebilir ve silebilir.
 
-> 🧠 Bu proje, bir **Udemy Java kursu** kapsamında öğrenme amacıyla yapılmıştır.
+> 🧠 Bu proje öğrenme amacıyla yapılmıştır.
 
 ---
 
@@ -18,7 +18,7 @@ Kullanıcılar kitap ekleyebilir, listeleyebilir ve silebilir.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Java 17  
+- Java 21 
 - IntelliJ IDEA  
 
 ---
